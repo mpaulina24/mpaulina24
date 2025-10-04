@@ -9,17 +9,12 @@ Focused on technological development and digital health solutions
   - Integration of *PostHog* for interaction metrics 
   - Participation in national research dissemination events
 
-- *Computational Neuroscience Research Group – UdeA*  
-  - Skills in programming, data analysis, and scientific collaboration  
+- *Computational Neuroscience Research Group – UdeA* - Member
 
 ## 💡 Skills
 - *Languages*: JavaScript, Python, SQL  
 - *Frameworks*: React, Vue.js, Node.js, Django  
 - *Tools*: Git, GitHub, MySQL, Agile (Scrum), Trello  
-
-## 🏆 Achievements
-- *Honor Scholarship* – Faculty of Engineering, UdeA  
-  (2021-1, 2023-1, 2023-2, 2024-1, 2024-2, 2025-1)  
 
 ## 🌐 Contact
 📧 [mpaulina.arias@udea.edu.co](mailto:mpaulina.arias@udea.edu.co)  
