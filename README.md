@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m María Paulina Arias Castillo
 
-<!--
-**mpaulina24/mpaulina24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Bioengineering student at the University of Antioquia*  
+💻 Focused on technological development and digital health solutions  
 
-Here are some ideas to get you started:
+## 🔬 Experience
+- *Research Intern – Minciencias, GRUNECO*  
+  - Contribution to an electronic health record system (HTML, CSS, JavaScript, Django, SQL)  
+  - Integration of *PostHog* for interaction metrics 
+  - Participation in national research dissemination events
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Computational Neuroscience Research Group – UdeA*  
+  - Skills in programming, data analysis, and scientific collaboration  
+
+## 💡 Skills
+- *Languages*: JavaScript, Python, SQL  
+- *Frameworks*: React, Vue.js, Node.js, Django  
+- *Tools*: Git, GitHub, MySQL, Agile (Scrum), Trello  
+
+## 🏆 Achievements
+- *Honor Scholarship* – Faculty of Engineering, UdeA  
+  (2021-1, 2023-1, 2023-2, 2024-1, 2024-2, 2025-1)  
+
+## 🌐 Contact
+📧 [mpaulina.arias@udea.edu.co](mailto:mpaulina.arias@udea.edu.co)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mpaulina-arias)
