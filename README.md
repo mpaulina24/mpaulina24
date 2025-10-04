@@ -1,7 +1,7 @@
-# 👋 Hi, I’m María Paulina Arias Castillo
+# 👋 Hi, I’m María Paulina!
 
-🎓 *Bioengineering student at the University of Antioquia*  
-💻 Focused on technological development and digital health solutions  
+*Bioengineering student at the University of Antioquia*  
+Focused on technological development and digital health solutions  
 
 ## 🔬 Experience
 - *Research Intern – Minciencias, GRUNECO*  
